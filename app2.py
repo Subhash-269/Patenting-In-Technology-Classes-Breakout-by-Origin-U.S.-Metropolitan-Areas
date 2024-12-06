@@ -4,7 +4,7 @@ import plotly.io as pio
 import pandas as pd
 
 # Set the renderer to 'browser'
-pio.renderers.default = 'browser'
+# pio.renderers.default = 'browser'
 
 # Load the state-grouped data
 state_grouped = pd.read_csv("state_grouped.csv")
