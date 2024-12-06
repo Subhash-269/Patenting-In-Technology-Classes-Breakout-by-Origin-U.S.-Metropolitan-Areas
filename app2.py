@@ -40,7 +40,11 @@ app = Dash(__name__)
 
 app.layout = html.Div([
     html.Div([
-        html.H1("Patents Visualization", style={'text-align': 'center', 'font-family': 'Arial, sans-serif', 'padding': '10px', 'background-color': '#343a40', 'color': '#f8f9fa'}),
+        html.H1("Title: Distribution of patents in US - Metropolitan Statistical Areas in 2015", style={'text-align': 'center', 'font-family': 'Arial, sans-serif', 'padding': '10px', 'background-color': '#343a40', 'color': '#f8f9fa'}),
+        html.H3("IE6600: Computation and Visualization Course", style={'text-align': 'center', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
+        html.H4("Assignment 3", style={'text-align': 'center', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
+        html.P("Instructor: Srinivasan Radhakrishnan", style={'text-align': 'center', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
+        html.P("December 5th, 2024", style={'text-align': 'center', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'})
     ], style={'margin-bottom': '20px'}),
 
     html.Div([
@@ -88,8 +92,10 @@ app.layout = html.Div([
     # Footer
     html.Footer([
         html.P("Author: Pillalamarri Venkata Raja Pratyusha", style={'text-align': 'center', 'color': '#f8f9fa', 'font-family': 'Arial, sans-serif', 'padding': '10px'}),
+        # html.P("Title: Distribution of patents in US - Metropolitan Statistical Areas in 2015", style={'text-align': 'center', 'color': '#f8f9fa', 'font-family': 'Arial, sans-serif', 'padding': '10px'})
     ], style={'background-color': '#343a40', 'position': 'fixed', 'width': '100%', 'bottom': '0'})
 ], style={'background-color': '#121212', 'color': '#f8f9fa', 'padding-bottom': '40px'})
+
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 8027))
