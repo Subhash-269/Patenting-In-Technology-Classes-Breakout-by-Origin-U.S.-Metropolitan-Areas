@@ -72,27 +72,25 @@ app.layout = html.Div([
     # Summary Section
     html.Div([
         html.H2("Summary", style={'text-align': 'left', 'font-family': 'Arial, sans-serif', 'padding-top': '20px', 'color': '#f8f9fa'}),
+        html.P("Data Preparation: The displayed patents data was imported from U.S. PATENT AND TRADEMARK OFFICE into a .csv file.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
+        html.P("Data Preprocessing:", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
         html.Ul([
-            html.Li("The first map provides an overview of patent distribution across U.S. states in 2015:", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
-            html.Ul([
-                html.Li("California leads significantly with over 40,000 patents.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
-                html.Li("Most other states have fewer patents, indicated by lighter shades.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'})
-            ], style={'margin-bottom': '10px', 'padding-left': '20px'}),
-            html.Li("The bar chart shows the top 10 states with the highest patent counts in 2015:", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
-            html.Ul([
-                html.Li("California tops the list with 40,106 patents.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
-                html.Li("New York follows with 12,244 patents, and Texas with 9,938.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
-                html.Li("Massachusetts, Washington, and Michigan have between 6,839 and 5,545 patents.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
-                html.Li("Illinois, Minnesota, Pennsylvania, and Florida each have fewer than 5,000 patents, with Florida at 4,024.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'})
-            ], style={'margin-bottom': '10px', 'padding-left': '20px'}),
-            html.Li("Using **pandas** for data manipulation and **plotly** for visualization allowed for efficient analysis and presentation of patent distribution, clearly illustrating California's dominance in patent activity in 2015.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'})
-        ], style={'margin-bottom': '20px', 'padding-left': '20px'}),
+            html.Li("The data types of each column were verified and modified accordingly. The US regional Title column was cleaned using regex.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
+            html.Li("The USA map from Plotly was used to get the United States of America map with proper boundaries.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'})
+        ], style={'margin-bottom': '10px', 'padding-left': '20px'}),
+        html.P("Setup: Python, Pandas, Plotly, Dash app, Heroku", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
+        html.P("Bar Graph: The above graphs depict the top 10 states in the USA with the highest number of patents in 2015.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
+        html.Ul([
+            html.Li("It is clearly seen that the state of CA significantly leads with 40,106 patents, while the state of NY has approximately one-third of the number of patents in CA. TX has approximately one-fourth of the number of patents in CA.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
+            html.Li("Apart from that, states like IL, MN, PA, and FL have almost equal numbers of patents in the technology field.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
+            html.Li("States like MA and WA had approximately 6,000 to 6,800 patents in 2015.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'})
+        ], style={'margin-bottom': '10px', 'padding-left': '20px'}),
+        html.P("Choropleth Map: In this map, we observe that CA has the highest number of patents and is colored the darkest. This indicates that a higher number of patents is represented by a darker color.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'})
     ], style={'margin': '20px', 'background-color': '#212529', 'border-radius': '10px', 'padding': '20px', 'box-shadow': '0px 0px 10px rgba(0, 0, 0, 0.5)'}),
 
     # Footer
     html.Footer([
-        html.P("Author: Pillalamarri Venkata Raja Pratyusha", style={'text-align': 'center', 'color': '#f8f9fa', 'font-family': 'Arial, sans-serif', 'padding': '10px'}),
-        # html.P("Title: Distribution of patents in US - Metropolitan Statistical Areas in 2015", style={'text-align': 'center', 'color': '#f8f9fa', 'font-family': 'Arial, sans-serif', 'padding': '10px'})
+        html.P("Author: Pillalamarri Venkata Raja Pratyusha", style={'text-align': 'center', 'color': '#f8f9fa', 'font-family': 'Arial, sans-serif', 'padding': '10px'})
     ], style={'background-color': '#343a40', 'position': 'fixed', 'width': '100%', 'bottom': '0'})
 ], style={'background-color': '#121212', 'color': '#f8f9fa', 'padding-bottom': '40px'})
 
