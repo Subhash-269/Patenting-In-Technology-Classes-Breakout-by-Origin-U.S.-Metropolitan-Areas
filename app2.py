@@ -2,6 +2,7 @@ from dash import Dash, dcc, html
 import plotly.express as px
 import plotly.io as pio
 import pandas as pd
+import os
 
 # Set the renderer to 'browser'
 # pio.renderers.default = 'browser'
@@ -91,4 +92,5 @@ app.layout = html.Div([
 ], style={'background-color': '#121212', 'color': '#f8f9fa', 'padding-bottom': '40px'})
 
 if __name__ == "__main__":
-    app.run_server(debug=False)
+    port = int(os.environ.get("PORT", 8027))
+    app.run_server(debug=False, host='0.0.0.0', port=port)
