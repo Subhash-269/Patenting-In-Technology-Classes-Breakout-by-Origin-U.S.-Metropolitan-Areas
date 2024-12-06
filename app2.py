@@ -91,4 +91,4 @@ app.layout = html.Div([
 ], style={'background-color': '#121212', 'color': '#f8f9fa', 'padding-bottom': '40px'})
 
 if __name__ == "__main__":
-    app.run_server(debug=False, port=8027)
+    app.run_server(debug=False)

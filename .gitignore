@@ -1,0 +1,8 @@
+# Ignore all files
+*
+
+# Except these
+!app2.py
+!state_grouped.csv
+!requirements.txt
+!Procfile
