@@ -1,0 +1,952 @@
+U.S. Regional Level,ID Code,U.S. Regional Title,No Of Patents,Total,Latitude,Longitude
+"Metropolitan
+Statistical Area",141940,"San Jose-
+Sunnyvale-Santa
+Clara, CA",14618,143473,37.4079318,-122.008644
+"Metropolitan
+Statistical Area",135620,"New York-
+Northern New
+Jersey-Long Island,
+NY-NJ-PA",7754,92577,40.27245,-76.90567
+"Metropolitan
+Statistical Area",141860,"San Francisco-
+Oakland-Fremont,
+CA",9732,89981,37.776491,-122.232443
+"Metropolitan
+Statistical Area",131100,"Los Angeles-Long
+Beach-Santa Ana,
+CA",6476,74381,37.399399,-121.96718
+"Metropolitan
+Statistical Area",114460,"Boston-Cambridge-
+Quincy, MA-NH",5949,62653,43.66702,-71.4998
+"Metropolitan
+Statistical Area",116980,"Chicago-Joliet-
+Naperville, IL-IN-
+WI",3909,46991,45.656073,-88.911228
+"Metropolitan
+Statistical Area",141740,"San Diego-
+Carlsbad-San
+Marcos, CA",5460,45465,34.146701,-118.590086
+"Metropolitan
+Statistical Area",142660,"Seattle-Tacoma-
+Bellevue, WA",4739,44406,47.615471,-122.207221
+"Metropolitan
+Statistical Area",133460,"Minneapolis-St.
+Paul-Bloomington,
+MN-WI",3419,41696,44.50024,-90.00041
+"Metropolitan
+Statistical Area",119820,"Detroit-Warren-
+Livonia, MI",3305,37342,42.369351,-83.371753
+"Metropolitan
+Statistical Area",119100,"Dallas-Fort Worth-
+Arlington, TX",3026,34898,32.75955645397539,-97.10482794003319
+"Metropolitan
+Statistical Area",112420,"Austin-Round
+Rock-San Marcos,
+TX",2700,33753,30.280092,-96.35698
+"Metropolitan
+Statistical Area",137980,"Philadelphia-
+Camden-
+Wilmington, PA-
+NJ-DE-MD",2357,32416,39.00039,-76.74997
+"Metropolitan
+Statistical Area",126420,"Houston-Sugar
+Land-Baytown, TX",3186,32197,29.7355,-94.97743
+"Metropolitan
+Statistical Area",138900,"Portland-
+Vancouver-
+Hillsboro, OR-WA",2163,25717,47.50012,-120.50147
+"Metropolitan
+Statistical Area",147900,"Washington-
+Arlington-
+Alexandria, DC-
+VA-MD-WV",2310,24760,38.50038,-80.50009
+"Metropolitan
+Statistical Area",112060,"Atlanta-Sandy
+Springs-Marietta,
+GA",2143,22970,34.730494,-84.785662
+"Metropolitan
+Statistical Area",138060,"Phoenix-Mesa-
+Glendale, AZ",1764,20933,33.531753,-112.177935
+"Metropolitan
+Statistical Area",140380,"Rochester, NY",1217,20239,43.157285,-77.615214
+"Metropolitan
+Statistical Area",114260,"Boise City-Nampa,
+ID",722,19188,43.586632,-116.183698
+"Metropolitan
+Statistical Area",139580,"Raleigh-Cary, NC",1535,15950,35.789645199999995,-78.74370750940764
+"Metropolitan
+Statistical Area",133100,"Miami-Fort
+Lauderdale-
+Pompano Beach,
+FL",1338,15724,25.9676502,-80.209252
+"Metropolitan
+Statistical Area",117140,"Cincinnati-
+Middletown, OH-
+KY-IN",1048,13482,22.0,79.0
+"Metropolitan
+Statistical Area",119740,"Denver-Aurora-
+Broomfield, CO",1202,11436,39.909994,-105.002506
+"Metropolitan
+Statistical Area",117460,"Cleveland-Elyria-
+Mentor, OH",922,11277,41.476225,-82.152666
+"Metropolitan
+Statistical Area",138300,"Pittsburgh, PA",895,10907,40.4416941,-79.9900861
+"Metropolitan
+Statistical Area",110580,"Albany-
+Schenectady-Troy,
+NY",1090,10841,42.75578055,-73.7741253000329
+"Metropolitan
+Statistical Area",112580,"Baltimore-Towson,
+MD",846,10574,39.675,-77.0191667
+"Metropolitan
+Statistical Area",141180,"St. Louis, MO-IL",779,10290,48.5415502,2.659614
+"Metropolitan
+Statistical Area",139100,"Poughkeepsie-
+Newburgh-
+Middletown, NY",871,10277,41.329419,-74.202195
+"Metropolitan
+Statistical Area",114860,"Bridgeport-
+Stamford-Norwalk,
+CT",636,9721,41.134394,-73.546053
+"Metropolitan
+Statistical Area",114500,"Boulder, CO",831,9137,40.0149856,-105.270545
+"Metropolitan
+Statistical Area",133340,"Milwaukee-
+Waukesha-West
+Allis, WI",689,8988,43.01635795,-88.0672493
+"Metropolitan
+Statistical Area",125540,"Hartford-West
+Hartford-East
+Hartford, CT",845,8920,41.769289,-72.686032
+"Metropolitan
+Statistical Area",126900,"Indianapolis-
+Carmel, IN",735,8161,39.9311417,-86.15264279189338
+"Metropolitan
+Statistical Area",128140,"Kansas City, MO-
+KS",816,7952,38.94231585,-94.60607524663884
+"Metropolitan
+Statistical Area",111460,"Ann Arbor, MI",785,7928,42.2813722,-83.7484616
+"Metropolitan
+Statistical Area",140900,"Sacramento--
+Arden-Arcade--
+Roseville, CA",659,7717,34.619081,-120.202472
+"Metropolitan
+Statistical Area",137100,"Oxnard-Thousand
+Oaks-Ventura, CA",571,7534,34.17056,-118.83759
+"Metropolitan
+Statistical Area",114740,"Bremerton-
+Silverdale, WA",907,7278,47.562247,-122.67038
+"Metropolitan
+Statistical Area",142100,"Santa Cruz-
+Watsonville, CA",678,7273,36.9092773,-121.7529071
+"Metropolitan
+Statistical Area",149340,"Worcester, MA",637,7191,42.2625621,-71.8018877
+"Metropolitan
+Statistical Area",146060,"Tucson, AZ",641,7014,32.2228765,-110.974847
+"Metropolitan
+Statistical Area",139300,"Providence-New
+Bedford-Fall River,
+RI-MA",496,6954,32.0,-6.0
+"Metropolitan
+Statistical Area",120500,"Durham-Chapel
+Hill, NC",607,6861,35.79160541601168,-78.78216735428857
+"Metropolitan
+Statistical Area",145300,"Tampa-St.
+Petersburg-
+Clearwater, FL",624,6810,28.530018,-82.467129
+"Metropolitan
+Statistical Area",141620,"Salt Lake City, UT",643,6690,40.7596198,-111.886797
+"Metropolitan
+Statistical Area",115540,"Burlington-South
+Burlington, VT",367,6263,44.4690246,-73.1549228
+"Metropolitan
+Statistical Area",118140,"Columbus, OH",445,6165,39.9622601,-83.0007065
+"Metropolitan
+Statistical Area",135300,"New Haven-
+Milford, CT",457,6098,41.222388,-73.056705
+"Metropolitan
+Statistical Area",140140,"Riverside-San
+Bernardino-
+Ontario, CA",484,6061,34.033428900000004,-117.55047075
+"Metropolitan
+Statistical Area",140340,"Rochester, MN",564,5907,44.0234387,-92.4630182
+"Metropolitan
+Statistical Area",122660,"Fort Collins-
+Loveland, CO",392,5861,40.4479377,-105.00890740524524
+"Metropolitan
+Statistical Area",145940,"Trenton-Ewing, NJ",542,5810,40.263963700000005,-74.80149405663767
+"Metropolitan
+Statistical Area",110420,"Akron, OH",373,5288,41.083064,-81.518485
+"Metropolitan
+Statistical Area",131540,"Madison, WI",455,5187,43.074761,-89.3837613
+"Metropolitan
+Statistical Area",110900,"Allentown-
+Bethlehem-Easton,
+PA-NJ",320,5073,40.16706,-74.49987
+"Metropolitan
+Statistical Area",137340,"Palm Bay-
+Melbourne-
+Titusville, FL",450,4922,28.607996,-80.809251
+"Metropolitan
+Statistical Area",131700,"Manchester-
+Nashua, NH",376,4752,42.769461327512616,-71.46864599253576
+"Metropolitan
+Statistical Area",136740,"Orlando-
+Kissimmee-
+Sanford, FL",446,4613,28.778954,-81.274566
+"Metropolitan
+Statistical Area",116740,"Charlotte-Gastonia-
+Rock Hill, NC-SC",451,4527,-27.0,-50.0
+"Metropolitan
+Statistical Area",141700,"San Antonio-New
+Braunfels, TX",413,4341,29.7341896,-98.0737843
+"Metropolitan
+Statistical Area",115380,"Buffalo-Niagara
+Falls, NY",254,4336,42.98120995,-78.8875524406806
+"Metropolitan
+Statistical Area",142060,"Santa Barbara-
+Santa Maria-
+Goleta, CA",468,4130,36.52779531386547,-6.289372830585093
+"Metropolitan
+Statistical Area",110740,"Albuquerque, NM",294,3823,35.0841034,-106.650985
+"Metropolitan
+Statistical Area",124860,"Greenville-
+Mauldin-Easley,
+SC",479,3807,34.82984,-82.60152
+"Metropolitan
+Statistical Area",129820,"Las Vegas-
+Paradise, NV",418,3799,36.0861034,-115.1611197919236
+"Metropolitan
+Statistical Area",117820,"Colorado Springs,
+CO",204,3750,38.8339578,-104.825348
+"Metropolitan
+Statistical Area",139340,"Provo-Orem, UT",396,3720,40.2551184,-111.656817
+"Metropolitan
+Statistical Area",119380,"Dayton, OH",260,3519,39.7589478,-84.1916069
+"Metropolitan
+Statistical Area",118700,"Corvallis, OR",135,3473,44.5645659,-123.2620435
+"Metropolitan
+Statistical Area",137900,"Peoria, IL",410,3321,40.6938609,-89.5891008
+"Metropolitan
+Statistical Area",132820,"Memphis, TN-MS-
+AR",326,3290,-34.0,-64.0
+"Metropolitan
+Statistical Area",139900,"Reno-Sparks, NV",243,3247,39.48554315,-119.79126855840221
+"Metropolitan
+Statistical Area",142220,"Santa Rosa-
+Petaluma, CA",233,3125,38.268290699999994,-122.63486550344254
+"Metropolitan
+Statistical Area",124540,"Greeley, CO",280,3120,40.4233142,-104.7091322
+"Metropolitan
+Statistical Area",140060,"Richmond, VA",243,3003,37.5385087,-77.43428
+"Metropolitan
+Statistical Area",130460,"Lexington-Fayette,
+KY",181,2945,38.0464066,-84.4970393
+"Metropolitan
+Statistical Area",119780,"Des Moines-West
+Des Moines, IA",218,2919,41.5644476,-93.7594059
+"Metropolitan
+Statistical Area",134980,"Nashville-
+Davidson--
+Murfreesboro--
+Franklin, TN",220,2743,35.909377,-86.900261
+"Metropolitan
+Statistical Area",128940,"Knoxville, TN",218,2741,35.9603948,-83.9210261
+"Metropolitan
+Statistical Area",145060,"Syracuse, NY",217,2738,43.0481221,-76.1474244
+"Metropolitan
+Statistical Area",124340,"Grand Rapids-
+Wyoming, MI",217,2711,42.88530425,-85.68189667861415
+"Metropolitan
+Statistical Area",131140,"Louisville/Jefferson
+County, KY-IN",300,2589,22.0,79.0
+"Metropolitan
+Statistical Area",113780,"Binghamton, NY",109,2481,42.098698,-75.9125187
+"Metropolitan
+Statistical Area",126100,"Holland-Grand
+Haven, MI",166,2372,43.06307,-86.22839
+"Metropolitan
+Statistical Area",126620,"Huntsville, AL",190,2368,34.729847,-86.5859011
+"Metropolitan
+Statistical Area",145780,"Toledo, OH",146,2243,41.6529143,-83.5378173
+"Metropolitan
+Statistical Area",147260,"Virginia Beach-
+Norfolk-Newport
+News, VA-NC",143,2242,35.50069,-80.00032
+"Metropolitan
+Statistical Area",136420,"Oklahoma City,
+OK",155,2204,35.4729886,-97.5170536
+"Metropolitan
+Statistical Area",111540,"Appleton, WI",108,2184,44.2613967,-88.4069744
+"Metropolitan
+Statistical Area",116300,"Cedar Rapids, IA",193,2178,41.9758872,-91.6704053
+"Metropolitan
+Statistical Area",127260,"Jacksonville, FL",202,2167,30.3321838,-81.655651
+"Metropolitan
+Statistical Area",115940,"Canton-Massillon,
+OH",121,2161,40.79672,-81.52151
+"Metropolitan
+Statistical Area",146140,"Tulsa, OK",174,2160,36.1563122,-95.9927516
+"Metropolitan
+Statistical Area",135980,"Norwich-New
+London, CT",108,2041,41.44669980346085,-72.10451091687575
+"Metropolitan
+Statistical Area",123060,"Fort Wayne, IN",141,2022,41.0799898,-85.1386015
+"Metropolitan
+Statistical Area",124660,"Greensboro-High
+Point, NC",159,2000,36.0857928,-79.96555008306188
+"Metropolitan
+Statistical Area",136260,"Ogden-Clearfield,
+UT",197,1987,41.11078,-112.02605
+"Metropolitan
+Statistical Area",144140,"Springfield, MA",165,1981,42.1018764,-72.5886727
+"Metropolitan
+Statistical Area",125420,"Harrisburg-
+Carlisle, PA",125,1945,40.21251495,-77.17860675
+"Metropolitan
+Statistical Area",135840,"North Port-
+Bradenton-
+Sarasota, FL",141,1900,27.242863,-82.528429
+"Metropolitan
+Statistical Area",136780,"Oshkosh-Neenah,
+WI",98,1888,44.18582,-88.46261
+"Metropolitan
+Statistical Area",135380,"New Orleans-
+Metairie-Kenner,
+LA",134,1869,29.99409,-90.24174
+"Metropolitan
+Statistical Area",138860,"Portland-South
+Portland-
+Biddeford, ME",143,1831,43.797401,-70.18421
+"Metropolitan
+Statistical Area",123540,"Gainesville, FL",187,1830,29.6519684,-82.3249846
+"Metropolitan
+Statistical Area",129540,"Lancaster, PA",148,1808,40.03813,-76.3056686
+"Metropolitan
+Statistical Area",136540,"Omaha-Council
+Bluffs, NE-IA",178,1758,41.21796297494803,-95.82386038572977
+"Metropolitan
+Statistical Area",116580,"Champaign-
+Urbana, IL",166,1720,40.1157948,-88.241194
+"Metropolitan
+Statistical Area",148620,"Wichita, KS",110,1648,37.6922361,-97.3375448
+"Metropolitan
+Statistical Area",127060,"Ithaca, NY",140,1638,42.437417499999995,-76.54837235139263
+"Metropolitan
+Statistical Area",129140,"Lafayette, IN",191,1610,40.4191229,-86.8919011
+"Metropolitan
+Statistical Area",140420,"Rockford, IL",155,1553,42.2713945,-89.093966
+"Metropolitan
+Statistical Area",122420,"Flint, MI",120,1514,43.0161693,-83.6900211
+"Metropolitan
+Statistical Area",149180,"Winston-Salem,
+NC",147,1512,36.0998131,-80.2440518
+"Metropolitan
+Statistical Area",128020,"Kalamazoo-
+Portage, MI",100,1484,42.24591065,-85.56362705774816
+"Metropolitan
+Statistical Area",149620,"York-Hanover, PA",114,1461,39.856169,-76.9492226
+"Metropolitan
+Statistical Area",113820,"Birmingham-
+Hoover, AL",112,1395,33.362913500000005,-86.82832937707872
+"Metropolitan
+Statistical Area",112940,"Baton Rouge, LA",82,1359,30.4494155,-91.1869659
+"Metropolitan
+Statistical Area",143780,"South Bend-
+Mishawaka, IN-MI",110,1337,41.7190024,-86.18185562493133
+"Metropolitan
+Statistical Area",139540,"Racine, WI",97,1327,42.7313756,-87.7834769
+"Metropolitan
+Statistical Area",128700,"Kingsport-Bristol-
+Bristol, TN-VA",75,1319,37.54812,-77.44675
+"Metropolitan
+Statistical Area",138940,"Port St. Lucie, FL",93,1265,27.2939333,-80.3503283
+"Metropolitan
+Statistical Area",129620,"Lansing-East
+Lansing, MI",93,1237,42.7320307,-84.4721678
+"Metropolitan
+Statistical Area",121500,"Erie, PA",91,1217,42.1294712,-80.0852695
+"Metropolitan
+Statistical Area",144060,"Spokane, WA",104,1191,47.6571934,-117.42351
+"Metropolitan
+Statistical Area",142020,"San Luis Obispo-
+Paso Robles, CA",117,1190,35.6262618,-120.6901319
+"Metropolitan
+Statistical Area",125860,"Hickory-Lenoir-
+Morganton, NC",106,1177,35.74541,-81.68482
+"Metropolitan
+Statistical Area",128740,"Kingston, NY",77,1173,41.9287812,-74.0023702
+"Metropolitan
+Statistical Area",139740,"Reading, PA",61,1157,40.335345,-75.9279495
+"Metropolitan
+Statistical Area",116820,"Charlottesville, VA",92,1122,38.029306,-78.4766781
+"Metropolitan
+Statistical Area",117900,"Columbia, SC",94,1115,34.0003117,-81.0331309
+"Metropolitan
+Statistical Area",135660,"Niles-Benton
+Harbor, MI",137,1103,42.10435954996741,-86.44491999185993
+"Metropolitan
+Statistical Area",121660,"Eugene-
+Springfield, OR",79,1093,44.0553238,-123.09253537848451
+"Metropolitan
+Statistical Area",121780,"Evansville, IN-KY",118,1080,38.20042,-84.87762
+"Metropolitan
+Statistical Area",119340,"Davenport-Moline-
+Rock Island, IA-IL",76,1079,40.00032,-89.25037
+"Metropolitan
+Statistical Area",128420,"Kennewick-Pasco-
+Richland, WA",84,1079,46.1736015,-119.0664001
+"Metropolitan
+Statistical Area",116700,"Charleston-North
+Charleston-
+Summerville, SC",69,1060,32.95178012955564,-80.16141950894765
+"Metropolitan
+Statistical Area",111180,"Ames, IA",84,1025,42.0267567,-93.6170448
+"Metropolitan
+Statistical Area",113980,"Blacksburg-
+Christiansburg-
+Radford, VA",84,1019,37.496759,-79.886749
+"Metropolitan
+Statistical Area",143900,"Spartanburg, SC",60,1007,34.9498007,-81.9320157
+"Metropolitan
+Statistical Area",141500,"Salinas, CA",74,992,36.6744117,-121.655037
+"Metropolitan
+Statistical Area",126180,"Honolulu, HI",88,990,21.304547,-157.855676
+"Metropolitan
+Statistical Area",144300,"State College, PA",72,988,40.7944504,-77.8616386
+"Metropolitan
+Statistical Area",130700,"Lincoln, NE",72,986,40.8088861,-96.7077751
+"Metropolitan
+Statistical Area",112540,"Bakersfield-
+Delano, CA",85,978,35.149032,-120.638381
+"Metropolitan
+Statistical Area",126980,"Iowa City, IA",85,944,41.6612561,-91.5299106
+"Metropolitan
+Statistical Area",121300,"Elmira, NY",75,934,42.0897965,-76.8077338
+"Metropolitan
+Statistical Area",114020,"Bloomington, IN",129,933,39.1670396,-86.5342881
+"Metropolitan
+Statistical Area",149660,"Youngstown-
+Warren-Boardman,
+OH-PA",66,919,40.27245,-76.90567
+"Metropolitan
+Statistical Area",142540,"Scranton--Wilkes-
+Barre, PA",42,908,41.33709205,-75.72257122928625
+"Metropolitan
+Statistical Area",140220,"Roanoke, VA",98,894,37.270973,-79.9414313
+"Metropolitan
+Statistical Area",144700,"Stockton, CA",94,880,37.9577016,-121.290779
+"Metropolitan
+Statistical Area",134940,"Naples-Marco
+Island, FL",81,867,26.06825765,-81.69837727006191
+"Metropolitan
+Statistical Area",111700,"Asheville, NC",57,859,35.595363,-82.5508407
+"Metropolitan
+Statistical Area",130860,"Logan, UT-ID",89,828,41.7528599,-111.7250852
+"Metropolitan
+Statistical Area",119660,"Deltona-Daytona
+Beach-Ormond
+Beach, FL",62,818,29.28581,-81.05589
+"Metropolitan
+Statistical Area",118020,"Columbus, IN",91,816,39.2014405,-85.9213796
+"Metropolitan
+Statistical Area",129180,"Lafayette, LA",62,815,30.2262187,-92.0178202
+"Metropolitan
+Statistical Area",129020,"Kokomo, IN",36,813,40.4864444,-86.1336351
+"Metropolitan
+Statistical Area",117780,"College Station-
+Bryan, TX",67,798,30.605537599999998,-96.30824972164912
+"Metropolitan
+Statistical Area",130780,"Little Rock-North
+Little Rock-
+Conway, AR",61,796,34.762371364354784,-92.20453310921329
+"Metropolitan
+Statistical Area",145220,"Tallahassee, FL",52,779,30.4380832,-84.2809332
+"Metropolitan
+Statistical Area",146700,"Vallejo-Fairfield,
+CA",67,777,38.24936,-122.03997
+"Metropolitan
+Statistical Area",115980,"Cape Coral-Fort
+Myers, FL",85,766,26.5640011,-81.96045738661337
+"Metropolitan
+Statistical Area",122020,"Fargo, ND-MN",75,761,46.831730492862576,-96.7914886055084
+"Metropolitan
+Statistical Area",140980,"Saginaw-Saginaw
+Township North,
+MI",60,758,43.4455088,-83.9697277
+"Metropolitan
+Statistical Area",148900,"Wilmington, NC",54,745,34.2257282,-77.9447107
+"Metropolitan
+Statistical Area",123420,"Fresno, CA",72,744,36.7394421,-119.78483
+"Metropolitan
+Statistical Area",112260,"Augusta-Richmond
+County, GA-SC",54,740,-27.0,-50.0
+"Metropolitan
+Statistical Area",116860,"Chattanooga, TN-
+GA",45,728,34.93021,-85.343951
+"Metropolitan
+Statistical Area",126820,"Idaho Falls, ID",34,726,43.4887907,-112.03628
+"Metropolitan
+Statistical Area",121140,"Elkhart-Goshen, IN",47,713,41.5871396,-85.83534264946283
+"Metropolitan
+Statistical Area",113460,"Bend, OR",67,686,44.0581728,-121.3153096
+"Metropolitan
+Statistical Area",122220,"Fayetteville-
+Springdale-Rogers,
+AR-MO",80,683,38.25031,-92.50046
+"Metropolitan
+Statistical Area",112700,"Barnstable Town,
+MA",52,677,41.6514957,-70.28259620086317
+"Metropolitan
+Statistical Area",143100,"Sheboygan, WI",60,657,43.7128967,-87.9370433
+"Metropolitan
+Statistical Area",133780,"Monroe, MI",56,656,41.0400423,-75.3249475
+"Metropolitan
+Statistical Area",113380,"Bellingham, WA",56,619,48.7544012,-122.478836
+"Metropolitan
+Statistical Area",112020,"Athens-Clarke
+County, GA",49,616,33.9458693,-83.3557816
+"Metropolitan
+Statistical Area",141420,"Salem, OR",36,614,44.9391565,-123.033121
+"Metropolitan
+Statistical Area",142140,"Santa Fe, NM",50,613,35.6876096,-105.938456
+"Metropolitan
+Statistical Area",137860,"Pensacola-Ferry
+Pass-Brent, FL",48,593,30.4878656,-87.2245765819797
+"Metropolitan
+Statistical Area",124580,"Green Bay, WI",42,580,44.5126379,-88.0125794
+"Metropolitan
+Statistical Area",133700,"Modesto, CA",36,570,37.6393419,-120.9968892
+"Metropolitan
+Statistical Area",122380,"Flagstaff, AZ",64,564,35.1987522,-111.651822
+"Metropolitan
+Statistical Area",121340,"El Paso, TX",34,527,31.7601164,-106.4870404
+"Metropolitan
+Statistical Area",136500,"Olympia, WA",43,518,47.0451022,-122.8950075
+"Metropolitan
+Statistical Area",120740,"Eau Claire, WI",43,510,44.811349,-91.4984941
+"Metropolitan
+Statistical Area",147940,"Waterloo-Cedar
+Falls, IA",49,508,42.557709700000004,-92.3940615771661
+"Metropolitan
+Statistical Area",129460,"Lakeland-Winter
+Haven, FL",40,507,30.58743,-84.496403
+"Metropolitan
+Statistical Area",131340,"Lynchburg, VA",46,505,37.4137536,-79.1422464
+"Metropolitan
+Statistical Area",117860,"Columbia, MO",34,493,38.951883,-92.3337366
+"Metropolitan
+Statistical Area",116620,"Charleston, WV",26,473,38.3505995,-81.6332812
+"Metropolitan
+Statistical Area",143580,"Sioux City, IA-NE-
+SD",25,473,44.375108,-100.38231
+"Metropolitan
+Statistical Area",122500,"Florence, SC",23,471,34.1984435,-79.7671658
+"Metropolitan
+Statistical Area",144180,"Springfield, MO",35,470,37.2081729,-93.2922715
+"Metropolitan
+Statistical Area",134900,"Napa, CA",43,450,38.4898675,-122.3218414
+"Metropolitan
+Statistical Area",127500,"Janesville, WI",39,444,42.6829765,-89.0226793
+"Metropolitan
+Statistical Area",114060,"Bloomington-
+Normal, IL",74,437,40.508752,-88.9844947
+"Metropolitan
+Statistical Area",111340,"Anderson, SC",45,428,34.5258335,-82.652962
+"Metropolitan
+Statistical Area",129940,"Lawrence, KS",52,424,38.9719137,-95.2359403
+"Metropolitan
+Statistical Area",127140,"Jackson, MS",27,415,32.2998686,-90.1830408
+"Metropolitan
+Statistical Area",120220,"Dubuque, IA",61,408,42.5006243,-90.6647985
+"Metropolitan
+Statistical Area",127100,"Jackson, MI",39,406,32.2998686,-90.1830408
+"Metropolitan
+Statistical Area",111260,"Anchorage, AK",26,403,61.2163129,-149.894852
+"Metropolitan
+Statistical Area",143620,"Sioux Falls, SD",42,403,43.5476008,-96.7293629
+"Metropolitan
+Statistical Area",127740,"Johnson City, TN",28,396,36.3134398,-82.3534728
+"Metropolitan
+Statistical Area",122540,"Fond du Lac, WI",25,388,43.7533414,-88.4493796
+"Metropolitan
+Statistical Area",136100,"Ocala, FL",25,375,29.1871986,-82.1400923
+"Metropolitan
+Statistical Area",131180,"Lubbock, TX",25,373,33.5855677,-101.8470215
+"Metropolitan
+Statistical Area",138340,"Pittsfield, MA",36,371,42.4484778,-73.2541069
+"Metropolitan
+Statistical Area",111300,"Anderson, IN",33,358,40.1053196,-85.6802541
+"Metropolitan
+Statistical Area",144100,"Springfield, IL",37,357,39.7990175,-89.6439575
+"Metropolitan
+Statistical Area",146540,"Utica-Rome, NY",40,354,43.08044731026794,-75.51684643793435
+"Metropolitan
+Statistical Area",127900,"Joplin, MO",25,353,37.0841838,-94.5133385
+"Metropolitan
+Statistical Area",112220,"Auburn-Opelika,
+AL",25,352,32.6118107,-85.43694166226194
+"Metropolitan
+Statistical Area",131860,"Mankato-North
+Mankato, MN",41,346,44.1732916,-94.0338055
+"Metropolitan
+Statistical Area",118580,"Corpus Christi, TX",45,344,27.7635302,-97.4033191
+"Metropolitan
+Statistical Area",137460,"Panama City-Lynn
+Haven-Panama
+City Beach, FL",17,339,30.17659,-85.80549
+"Metropolitan
+Statistical Area",123580,"Gainesville, GA",28,338,34.2978794,-83.8240663
+"Metropolitan
+Statistical Area",113140,"Beaumont-Port
+Arthur, TX",34,337,29.94346628234861,-93.97046357138096
+"Metropolitan
+Statistical Area",127180,"Jackson, TN",11,337,35.6144446,-88.8177418
+"Metropolitan
+Statistical Area",143340,"Shreveport-Bossier
+City, LA",30,334,32.443701700000005,-93.87886552394068
+"Metropolitan
+Statistical Area",112980,"Battle Creek, MI",27,329,42.3192548,-85.1824269
+"Metropolitan
+Statistical Area",139140,"Prescott, AZ",30,329,34.539984,-112.468812
+"Metropolitan
+Statistical Area",113020,"Bay City, MI",22,328,43.5944677,-83.8888648
+"Metropolitan
+Statistical Area",132780,"Medford, OR",51,327,42.3264181,-122.8718605
+"Metropolitan
+Statistical Area",137620,"Parkersburg-
+Marietta-Vienna,
+WV-OH",14,325,40.25034,-83.00018
+"Metropolitan
+Statistical Area",133660,"Mobile, AL",16,321,30.6913462,-88.0437509
+"Metropolitan
+Statistical Area",142340,"Savannah, GA",34,319,32.0790074,-81.0921335
+"Metropolitan
+Statistical Area",126380,"Houma-Bayou
+Cane-Thibodaux,
+LA",24,318,29.79576,-90.82287
+"Metropolitan
+Statistical Area",120260,"Duluth, MN-WI",34,316,46.65675039591158,-92.20118327518003
+"Metropolitan
+Statistical Area",129100,"La Crosse, WI-MN",22,312,43.787984467525874,-91.23608217737157
+"Metropolitan
+Statistical Area",134060,"Morgantown, WV",32,309,39.6296809,-79.9559437
+"Metropolitan
+Statistical Area",131740,"Manhattan, KS",39,305,39.1836082,-96.5716694
+"Metropolitan
+Statistical Area",130980,"Longview, TX",20,301,32.5007031,-94.74049
+"Metropolitan
+Statistical Area",124020,"Glens Falls, NY",38,299,43.309941,-73.644447
+"Metropolitan
+Statistical Area",134740,"Muskegon-Norton
+Shores, MI",15,295,43.12881793562215,-86.27245273656766
+"Metropolitan
+Statistical Area",124780,"Greenville, NC",24,293,35.613224,-77.3724593
+"Metropolitan
+Statistical Area",146340,"Tyler, TX",22,291,32.3512601,-95.3010624
+"Metropolitan
+Statistical Area",133260,"Midland, TX",33,290,31.83688,-102.0103767
+"Metropolitan
+Statistical Area",148700,"Williamsport, PA",12,287,41.2411556,-77.0011096
+"Metropolitan
+Statistical Area",119500,"Decatur, IL",17,277,39.8454163,-88.9524151
+"Metropolitan
+Statistical Area",142680,"Sebastian-Vero
+Beach, FL",38,276,27.63864,-80.39727
+"Metropolitan
+Statistical Area",143300,"Sherman-Denison,
+TX",16,266,33.7228689,-96.55398844676102
+"Metropolitan
+Statistical Area",117660,"Coeur d'Alene, ID",35,255,47.6742994,-116.7811531
+"Metropolitan
+Statistical Area",141980,"San Juan-Caguas-
+Guaynabo, PR",21,255,18.306825169554124,-66.07344479419612
+"Metropolitan
+Statistical Area",115500,"Burlington, NC",26,253,36.0956918,-79.4377991
+"Metropolitan
+Statistical Area",139460,"Punta Gorda, FL",22,250,26.9351529,-82.0512058
+"Metropolitan
+Statistical Area",125180,"Hagerstown-
+Martinsburg, MD-
+WV",18,244,37.623809,-81.259714
+"Metropolitan
+Statistical Area",141060,"St. Cloud, MN",21,243,45.5616075,-94.1642004
+"Metropolitan
+Statistical Area",125060,"Gulfport-Biloxi,
+MS",12,242,30.40711375,-89.07143302103171
+"Metropolitan
+Statistical Area",131420,"Macon, GA",16,242,32.8406946,-83.6324022
+"Metropolitan
+Statistical Area",112100,"Atlantic City-
+Hammonton, NJ",12,237,39.601285327542705,-74.80925375533073
+"Metropolitan
+Statistical Area",118880,"Crestview-Fort
+Walton Beach-
+Destin, FL",18,234,30.390981,-86.4903
+"Metropolitan
+Statistical Area",133860,"Montgomery, AL",17,231,32.37742,-86.3091683
+"Metropolitan
+Statistical Area",128660,"Killeen-Temple-
+Fort Hood, TX",21,230,31.134891,-97.775614
+"Metropolitan
+Statistical Area",134820,"Myrtle Beach-
+North Myrtle
+Beach-Conway, SC",22,225,33.79726382764921,-78.739969908419
+"Metropolitan
+Statistical Area",141100,"St. George, UT",25,221,37.104153,-113.584131
+"Metropolitan
+Statistical Area",111100,"Amarillo, TX",18,212,35.20729,-101.8371192
+"Metropolitan
+Statistical Area",148140,"Wausau, WI",11,209,44.9597858,-89.6272791
+"Metropolitan
+Statistical Area",124300,"Grand Junction,
+CO",21,208,39.0672568,-108.56448
+"Metropolitan
+Statistical Area",144220,"Springfield, OH",16,206,39.9234046,-83.810138
+"Metropolitan
+Statistical Area",130140,"Lebanon, PA",18,204,40.375713,-76.4626118
+"Metropolitan
+Statistical Area",117020,"Chico, CA",16,203,39.7284945,-121.8374777
+"Metropolitan
+Statistical Area",139820,"Redding, CA",16,200,40.5863563,-122.391675
+"Metropolitan
+Statistical Area",149020,"Winchester, VA-
+WV",21,197,39.1831596,-78.3894505
+"Metropolitan
+Statistical Area",147380,"Waco, TX",17,195,31.5491899,-97.1474628
+"Metropolitan
+Statistical Area",129740,"Las Cruces, NM",8,194,32.3140354,-106.779807
+"Metropolitan
+Statistical Area",134100,"Morristown, TN",16,191,36.2139814,-83.2948923
+"Metropolitan
+Statistical Area",124220,"Grand Forks, ND-
+MN",14,190,47.9317013,-97.0175792
+"Metropolitan
+Statistical Area",128100,"Kankakee-Bradley,
+IL",10,190,41.1718159,-87.849986274721
+"Metropolitan
+Statistical Area",133540,"Missoula, MT",19,190,46.8701049,-113.995267
+"Metropolitan
+Statistical Area",126580,"Huntington-
+Ashland, WV-KY-
+OH",14,186,39.316414,-82.981499
+"Metropolitan
+Statistical Area",112620,"Bangor, ME",18,184,44.8016255,-68.7713289
+"Metropolitan
+Statistical Area",147300,"Visalia-Porterville,
+CA",12,183,36.06523,-119.01677
+"Metropolitan
+Statistical Area",134580,"Mount Vernon-
+Anacortes, WA",23,181,48.419677,-122.338803
+"Metropolitan
+Statistical Area",136220,"Odessa, TX",16,177,31.8457149,-102.367687
+"Metropolitan
+Statistical Area",119460,"Decatur, AL",12,176,34.6060203,-86.9838165
+"Metropolitan
+Statistical Area",146220,"Tuscaloosa, AL",25,176,33.2095614,-87.5675258
+"Metropolitan
+Statistical Area",114540,"Bowling Green,
+KY",10,172,36.9903199,-86.4436018
+"Metropolitan
+Statistical Area",149420,"Yakima, WA",7,170,46.601557,-120.510842
+"Metropolitan
+Statistical Area",122180,"Fayetteville, NC",13,168,35.0525759,-78.878292
+"Metropolitan
+Statistical Area",129340,"Lake Charles, LA",8,166,30.2305095,-93.2169807
+"Metropolitan
+Statistical Area",133140,"Michigan City-La
+Porte, IN",12,163,41.7099264,-86.8946587
+"Metropolitan
+Statistical Area",122900,"Fort Smith, AR-OK",17,162,35.49209,-97.50328
+"Metropolitan
+Statistical Area",117980,"Columbus, GA-AL",12,161,33.7581569,-86.7533259
+"Metropolitan
+Statistical Area",145820,"Topeka, KS",8,157,39.049011,-95.677556
+"Metropolitan
+Statistical Area",139380,"Pueblo, CO",18,150,38.263995,-104.6141867
+"Metropolitan
+Statistical Area",141140,"St. Joseph, MO-KS",4,149,38.50029,-98.50063
+"Metropolitan
+Statistical Area",119140,"Dalton, GA",9,147,34.7691867,-84.9702475
+"Metropolitan
+Statistical Area",145460,"Terre Haute, IN",7,145,39.4667025,-87.4139119
+"Metropolitan
+Statistical Area",120100,"Dover, DE",8,144,39.158168,-75.5243682
+"Metropolitan
+Statistical Area",113740,"Billings, MT",13,140,45.7874957,-108.49607
+"Metropolitan
+Statistical Area",131020,"Longview, WA",8,140,46.1377048,-122.934462
+"Metropolitan
+Statistical Area",117300,"Clarksville, TN-KY",8,137,36.68373727562121,-87.29182286360417
+"Metropolitan
+Statistical Area",131900,"Mansfield, OH",12,137,40.75839,-82.5154471
+"Metropolitan
+Statistical Area",133740,"Monroe, LA",12,136,32.5025471,-92.116219
+"Metropolitan
+Statistical Area",127780,"Johnstown, PA",7,133,40.3267407,-78.9219698
+"Metropolitan
+Statistical Area",139660,"Rapid City, SD",10,133,44.0806041,-103.228023
+"Metropolitan
+Statistical Area",141780,"Sandusky, OH",9,133,41.2951563,-83.1555438
+"Metropolitan
+Statistical Area",117420,"Cleveland, TN",4,132,35.1595182,-84.8766115
+"Metropolitan
+Statistical Area",148660,"Wichita Falls, TX",10,132,33.9004572,-98.5020777
+"Metropolitan
+Statistical Area",113900,"Bismarck, ND",4,131,46.808327,-100.783739
+"Metropolitan
+Statistical Area",148540,"Wheeling, WV-OH",6,131,40.1069506,-80.8525981
+"Metropolitan
+Statistical Area",129420,"Lake Havasu City-
+Kingman, AZ",11,129,35.114652,-113.718391
+"Metropolitan
+Statistical Area",137380,"Palm Coast, FL",13,126,29.5541432,-81.2207673
+"Metropolitan
+Statistical Area",131460,"Madera-
+Chowchilla, CA",13,125,37.1229862,-120.2622913
+"Metropolitan
+Statistical Area",121060,"Elizabethtown, KY",9,124,37.693952,-85.8591285
+"Metropolitan
+Statistical Area",136980,"Owensboro, KY",8,124,37.7742152,-87.1133304
+"Metropolitan
+Statistical Area",132580,"McAllen-Edinburg-
+Mission, TX",14,123,30.846856,-99.241264
+"Metropolitan
+Statistical Area",141540,"Salisbury, MD",4,123,38.366027,-75.6009964
+"Metropolitan
+Statistical Area",116180,"Carson City, NV",5,122,39.1663259,-119.7670374
+"Metropolitan
+Statistical Area",127860,"Jonesboro, AR",25,122,35.8272257,-90.6949871
+"Metropolitan
+Statistical Area",122520,"Florence-Muscle
+Shoals, AL",11,121,34.830621,-87.63201922602904
+"Metropolitan
+Statistical Area",125620,"Hattiesburg, MS",9,119,31.3271189,-89.2903392
+"Metropolitan
+Statistical Area",134620,"Muncie, IN",7,113,40.1936892,-85.3865271
+"Metropolitan
+Statistical Area",111020,"Altoona, PA",12,112,40.518681,-78.394736
+"Metropolitan
+Statistical Area",149700,"Yuba City, CA",3,112,39.1404477,-121.6169108
+"Metropolitan
+Statistical Area",110500,"Albany, GA",28,111,31.5782062,-84.1556809
+"Metropolitan
+Statistical Area",122140,"Farmington, NM",5,110,36.7291152,-108.205445
+"Metropolitan
+Statistical Area",125500,"Harrisonburg, VA",8,102,38.4493315,-78.8688833
+"Metropolitan
+Statistical Area",132900,"Merced, CA",8,101,37.1641544,-120.7678602
+"Metropolitan
+Statistical Area",140580,"Rocky Mount, NC",7,98,35.9423833,-77.7956949
+"Metropolitan
+Statistical Area",116940,"Cheyenne, WY",18,96,41.139981,-104.820246
+"Metropolitan
+Statistical Area",115180,"Brownsville-
+Harlingen, TX",13,95,25.9738093,-97.5098892
+"Metropolitan
+Statistical Area",138540,"Pocatello, ID",4,94,42.8620287,-112.450627
+"Metropolitan
+Statistical Area",147220,"Vineland-Millville-
+Bridgeton, NJ",8,92,39.460791,-75.165616
+"Metropolitan
+Statistical Area",137700,"Pascagoula, MS",2,91,30.3646795,-88.5585995
+"Metropolitan
+Statistical Area",110780,"Alexandria, LA",7,89,31.3119463,-92.4453558
+"Metropolitan
+Statistical Area",140660,"Rome, GA",8,85,34.257038,-85.1646726
+"Metropolitan
+Statistical Area",126300,"Hot Springs, AR",3,84,34.5038393,-93.0552437
+"Metropolitan
+Statistical Area",116020,"Cape Girardeau-
+Jackson, MO-IL",2,83,40.00032,-89.25037
+"Metropolitan
+Statistical Area",148300,"Wenatchee-East
+Wenatchee, WA",6,82,47.4156824,-120.293126
+"Metropolitan
+Statistical Area",144600,"Steubenville-
+Weirton, OH-WV",2,81,40.3978457,-80.6220184
+"Metropolitan
+Statistical Area",111500,"Anniston-Oxford,
+AL",5,80,33.6113674,-85.79178246868132
+"Metropolitan
+Statistical Area",130340,"Lewiston-Auburn,
+ME",6,79,44.04808285,-70.28316628451043
+"Metropolitan
+Statistical Area",115260,"Brunswick, GA",5,77,31.1499528,-81.4914894
+"Metropolitan
+Statistical Area",127620,"Jefferson City, MO",10,75,38.577359,-92.1724265
+"Metropolitan
+Statistical Area",149740,"Yuma, AZ",5,75,32.723268,-114.6179954
+"Metropolitan
+Statistical Area",145500,"Texarkana, TX-
+Texarkana, AR",2,71,33.4201041,-94.0425556
+"Metropolitan
+Statistical Area",110180,"Abilene, TX",8,70,32.44645,-99.7475905
+"Metropolitan
+Statistical Area",136140,"Ocean City, NJ",5,68,39.2776156,-74.5746001
+"Metropolitan
+Statistical Area",120020,"Dothan, AL",4,66,31.2237285,-85.3934375
+"Metropolitan
+Statistical Area",147580,"Warner Robins, GA",5,64,32.6200973,-83.606568
+"Metropolitan
+Statistical Area",119180,"Danville, IL",3,62,40.125222,-87.6304614
+"Metropolitan
+Statistical Area",130620,"Lima, OH",5,62,40.7399785,-84.105006
+"Metropolitan
+Statistical Area",144940,"Sumter, SC",2,55,33.9204354,-80.3414693
+"Metropolitan
+Statistical Area",147020,"Victoria, TX",3,55,28.8026443,-96.9766308
+"Metropolitan
+Statistical Area",123460,"Gadsden, AL",1,54,34.0128323,-86.0030251
+"Metropolitan
+Statistical Area",146660,"Valdosta, GA",5,52,30.8327022,-83.2784851
+"Metropolitan
+Statistical Area",127340,"Jacksonville, NC",11,48,34.7494749,-77.4208221
+"Metropolitan
+Statistical Area",119060,"Cumberland, MD-
+WV",0,46,37.623809,-81.259714
+"Metropolitan
+Statistical Area",121820,"Fairbanks, AK",4,43,64.837845,-147.716675
+"Metropolitan
+Statistical Area",110380,"Aguadilla-Isabela-
+San Sebasti锟絥, PR",3,42,-24.5,-51.33333
+"Metropolitan
+Statistical Area",119260,"Danville, VA",2,42,36.5879877,-79.3916713
+"Metropolitan
+Statistical Area",124500,"Great Falls, MT",3,42,47.5048851,-111.29189
+"Metropolitan
+Statistical Area",116220,"Casper, WY",5,42,42.8501191,-106.325138
+"Metropolitan
+Statistical Area",132420,"Mayag锟絜z, PR",3,41,-24.5,-51.33333
+"Metropolitan
+Statistical Area",125260,"Hanford-Corcoran,
+CA",0,40,36.220468,-119.71776
+"Metropolitan
+Statistical Area",141660,"San Angelo, TX",3,39,31.4649685,-100.4405094
+"Metropolitan
+Statistical Area",120940,"El Centro, CA",3,38,32.792,-115.563051
+"Metropolitan
+Statistical Area",124140,"Goldsboro, NC",2,38,35.3848841,-77.9927651
+"Metropolitan
+Statistical Area",130020,"Lawton, OK",4,38,34.6086854,-98.3903305
+"Metropolitan
+Statistical Area",130300,"Lewiston, ID-WA",3,38,46.431462310618684,-117.05725589842984
+"Metropolitan
+Statistical Area",129700,"Laredo, TX",4,28,27.5075005,-99.5069922
+"Metropolitan
+Statistical Area",138220,"Pine Bluff, AR",0,25,34.2157064,-92.0140402
+"Metropolitan
+Statistical Area",125980,"Hinesville-Fort
+Stewart, GA",0,10,31.83275155,-81.61737321802379
+"Metropolitan
+Statistical Area",138660,"Ponce, PR",0,8,18.066822350000002,-66.61404124357566
+"Metropolitan
+Statistical Area",141900,"San Germ锟絥-Cabo
+Rojo, PR",1,8,18.08663,-67.14573
+"Metropolitan
+Statistical Area",125020,"Guayama, PR",0,7,18.017959400000002,-66.14650187228571
+"Metropolitan
+Statistical Area",149500,"Yauco, PR",1,5,18.06305045,-66.86292807125642
+"Metropolitan
+Statistical Area",121940,"Fajardo, PR",0,2,18.3278026,-65.65618322074886
