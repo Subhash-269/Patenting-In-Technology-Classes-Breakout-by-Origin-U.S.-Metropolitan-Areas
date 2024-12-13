@@ -130,10 +130,10 @@ app.layout = html.Div([
         html.P("Bar Graph:", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
         html.Ul([
             html.Li("San Jose - Sunnyvale- Santa Clara leads significantly with 14618 patents.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
-            html.Li("Followed by San Francisco- Oakland- Fremont with9732 patents.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
+            html.Li("Followed by San Francisco- Oakland- Fremont with 9732 patents.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
             html.Li("Apart from that, states like IL, MN, PA, and FL have almost equal numbers of patents in the technology field.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
             html.Li("Los Angeles- Long Beach- Santa Ana and Boston - Cambridge - Quincy  approximately have about 6000 patents.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
-            html.Li("In fifth position we have San Diego Carlsbad- SAn Macros with about 5400 patents.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
+            html.Li("In fifth position we have San Diego Carlsbad- San Macros with about 5400 patents.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
             html.Li("Detroit- Warren - Livonia, Minneapolis-St. Paul Bloomington,Chicago - Joliet - Naperville have approximately 3000-4000 patents.", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'})
         ], style={'margin-bottom': '10px', 'padding-left': '20px'}),
         html.P("Choropleth Map:", style={'font-size': '16px', 'margin-bottom': '10px', 'font-family': 'Arial, sans-serif', 'color': '#f8f9fa'}),
